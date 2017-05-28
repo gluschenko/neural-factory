@@ -1,0 +1,8 @@
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Debug\NeuralFactory.csprojResolveAssemblyReference.cache
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Debug\NeuralFactory.csproj.GenerateResource.Cache
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\bin\Debug\NeuralFactory.exe.config
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\bin\Debug\NeuralFactory.exe
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\bin\Debug\NeuralFactory.pdb
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Debug\NeuralFactory.Properties.Resources.resources
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Debug\NeuralFactory.exe
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Debug\NeuralFactory.pdb

@@ -1,0 +1,11 @@
+c:\users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\bin\Debug\Neural Kit.exe.config
+C:\Users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\bin\Debug\Neural Kit.exe
+C:\Users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\bin\Debug\Neural Kit.pdb
+C:\Users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\obj\Debug\Neural Kit.csprojResolveAssemblyReference.cache
+C:\Users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\obj\Debug\Neural Kit.exe
+C:\Users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\obj\Debug\Neural Kit.pdb
+C:\Users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\obj\Debug\NeuralKit.Properties.Resources.resources
+C:\Users\j\documents\visual studio 2013\Projects\Neural Kit\Neural Kit\obj\Debug\Neural Kit.csproj.GenerateResource.Cache
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\Neural Kit\bin\Debug\Neural Kit.exe.config
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\Neural Kit\obj\Debug\Neural Kit.exe
+C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\Neural Kit\obj\Debug\Neural Kit.pdb
