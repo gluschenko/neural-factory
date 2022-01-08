@@ -1,8 +1,0 @@
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\bin\Release\NeuralFactory.exe.config
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\bin\Release\NeuralFactory.exe
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\bin\Release\NeuralFactory.pdb
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Release\NeuralFactory.csprojResolveAssemblyReference.cache
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Release\NeuralFactory.Properties.Resources.resources
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Release\NeuralFactory.csproj.GenerateResource.Cache
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Release\NeuralFactory.exe
-C:\Users\j\Documents\Visual Studio 2015\Projects\NeuralFactory\NeuralFactory\obj\Release\NeuralFactory.pdb
